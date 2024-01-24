@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="ac">AC</string>
+    <string name="c">C</string>
+    <string name="openb">)</string>
+    <string name="div">/</string>
+    <string name="dot">.</string>
+    <string name="_8">8</string>
+    <string name="equal">=</string>
+    <string name="textview">TextView</string>
+    <string name="_5">5</string>
+    <string name="_4">4</string>
+    <string name="dash">-</string>
+    <string name="star">*</string>
+    <string name="_9">9</string>
+    <string name="_1">1</string>
+</resources>
